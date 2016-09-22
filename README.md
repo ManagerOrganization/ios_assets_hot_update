@@ -36,7 +36,7 @@
 
 ### 实现iOS图片等资源文件的热更新化(二):自定义的动态 **imageNamed**
 
-这篇文章,要解决的是,使用一个自定义的 **imageNamed** 函数来替代系统的 **imageNamed** 函数.内部逻辑,将贯穿对比论证 关于"合适"的图片的定义.对iOS加载图片的规则不是很熟悉的童鞋,可以着重看这篇.
+这篇文章,要解决的是,使用一个自定义的 **imageNamed** 函数来替代系统的 **imageNamed** 函数.内部逻辑,将贯穿对比论证 关于"合适"的图片的定义.对iOS加载图片的规则不是很熟悉的童鞋,可以着重看这篇.[>>详情](https://github.com/ios122/ios_assets_hot_update/blob/master/ios_assets_hot_update_2.md)
 
 ### 实现iOS图片等资源文件的热更新化(三):动态的资源文件夹
 

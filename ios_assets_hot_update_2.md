@@ -9,9 +9,8 @@
 
 * iPad Pro 12.9 inch(iOS10.0): sample@2x.png > sample~ipad.png > sample.png 其他后缀的图片总是不被加载.
 
-
 不同后缀的图片|iPhone 7 plus(iOS10.0)|iPad Pro 12.9 inch(iOS10.0)
--|-|-
+---|----|----
 sample.png|7|8
 sample@2x.png|9|10
 sample@3x.png|10|0

@@ -156,6 +156,6 @@ NSLog(@"缓存资源目录: %@", cacheBundleDir);
 ## 参考资源:
 
 * [ iOS沙盒文件读写](http://blog.csdn.net/yangbingbinga/article/details/46406053)
-*
+* 
 [本节内容完整可执行Xcode工程代码,只有100k](https://github.com/ios122/ios_assets_hot_update/raw/master/res/ios_assets_hot_update_3.zip)
 * [系列文章,专属github项目](https://github.com/ios122/ios_assets_hot_update)

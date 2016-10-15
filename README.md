@@ -48,7 +48,7 @@
 
 ### 实现iOS图片等资源文件的热更新化(五): 一个简单完整的资源热更新页面
 
-一个简单的关于页面,有一个图片,版本号,App名称等,着重演示各个系列的文章完整集成示例.有耐心的,可以直接等着最后一篇文章更新.我还没写好呢,没法提前发. O(∩_∩)O哈哈~
+一个简单的关于页面,有一个图片,版本号,App名称等,着重演示各个系列的文章完整集成示例.有耐心的,可以直接等着最后一篇文章更新.我还没写好呢,没法提前发. O(∩_∩)O哈哈~ [>>详情](https://github.com/ios122/ios_assets_hot_update/blob/master/ios_assets_hot_update_5.md)
 
 ---
 系列专属github地址: [https://github.com/ios122/ios_assets_hot_update](https://github.com/ios122/ios_assets_hot_update)
